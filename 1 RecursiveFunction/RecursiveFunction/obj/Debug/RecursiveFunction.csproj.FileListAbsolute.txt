@@ -1,0 +1,6 @@
+C:\Users\Lawrence\Documents\Visual Studio 2015\Projects\Kindle\1 RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.exe.config
+C:\Users\Lawrence\Documents\Visual Studio 2015\Projects\Kindle\1 RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.exe
+C:\Users\Lawrence\Documents\Visual Studio 2015\Projects\Kindle\1 RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.pdb
+C:\Users\Lawrence\Documents\Visual Studio 2015\Projects\Kindle\1 RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.csprojResolveAssemblyReference.cache
+C:\Users\Lawrence\Documents\Visual Studio 2015\Projects\Kindle\1 RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.exe
+C:\Users\Lawrence\Documents\Visual Studio 2015\Projects\Kindle\1 RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.pdb
